@@ -1,2 +1,0 @@
-
-img.masthead-avatar.mb-5
